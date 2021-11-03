@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+main{
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 8px;
+}
+main .header{
+    margin: 16px 2px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1.1px;
+    background-color: rgb(204, 225, 240);
+    width: 97%;
+    border-radius: 8px;
+    padding: 10px;
+}
+main p , main ul li{
+    font-size: 17px;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    padding-left: 3px;
+}
