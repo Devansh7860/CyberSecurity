@@ -277,15 +277,14 @@ header nav .btn1 {
     margin-top: 30px;
   }
   main #first .buttons button{
-    width: 150px;
-    font-size: 15px;
+    width: 130px;
+    font-size: 13px;
   }
  
 }
 @media only screen and ( max-width: 530px){
    header nav ul li{
-     font-size: 14px;
+     font-size: 13px;
      margin: 9px;
    }
-  
 }
