@@ -284,7 +284,10 @@ header nav .btn1 {
 }
 @media only screen and ( max-width: 530px){
    header nav ul li{
-     font-size: 13px;
-     margin: 9px;
+     font-size: 12px;
+     margin: 7px;
+   }
+   main #first{
+     width: 65%;
    }
 }
