@@ -281,14 +281,14 @@ header nav .btn1 {
     font-size: 13px;
   }
   footer{
-    font-size: 17px; 
+    font-size: 13px; 
   } 
  
 }
 @media only screen and ( max-width: 530px){
    header nav ul li{
-     font-size: 11px;
-     margin: 7px;
+     font-size: 10px;
+     margin: 6px;
    }
    main #first{
      width: 65%;
